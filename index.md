@@ -4,7 +4,7 @@ This is my home page! My name is Jeremy Mejia and I am a student at Cal State Fu
 
 ## Computer Science Projects
 
-My Github page is http://github.com/jeremymn
+My Github page is [github.com/jeremymn](http://github.com/jeremymn)
 
 ### CPSC 120
 
